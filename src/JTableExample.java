@@ -38,7 +38,7 @@ public JTableExample(){
 				 {"Daniel G. Machado","Dan","33"},
 				 {"jorge2","giraldo2","21"},
 				 {"jorge3","giraldo3","22"},
-				 {"Bárbara Gomes Machado","giraldo4","23"}
+				 {"Bárbara Gomes Machado","Bah","23"}
 		 };
 		
 		table = new JTable(datos,columnas);
